@@ -59,9 +59,9 @@ O design da página foi construído de forma responsiva e moderna, utilizando um
 
 Se você gostou do meu trabalho e quer trocar uma ideia sobre tecnologia, oportunidades ou parcerias, sinta-se à vontade para me mandar uma mensagem!
 
-* 📧 **E-mail:** [mickaellysrs@gmail.com](mailto:mickaellysrs@gmail.com)
-* 💼 **LinkedIn:** [Mickaelly Silva](https://www.linkedin.com/in/mickaellys/)
-* 🐙 **GitHub:** [@Mickaellysilva](https://github.com/Mickaellysilva)
+* **E-mail:** [mickaellysrs@gmail.com](mailto:mickaellysrs@gmail.com)
+* **LinkedIn:** [Mickaelly Silva](https://www.linkedin.com/in/mickaellys/)
+* **GitHub:** [@Mickaellysilva](https://github.com/Mickaellysilva)
 
 ---
 
