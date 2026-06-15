@@ -2,7 +2,7 @@
 
 Olá! Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar quem eu sou, minhas habilidades técnicas, formação acadêmica e os principais projetos em que tenho trabalhado como Desenvolvedora Web Full Stack.
 
-▶️ **[Acesse o Portfólio Online Aqui](https://mickaellysilva.github.io)** *(Substitua pelo link do seu GitHub Pages, se houver)*
+▶️ **[Acesse o Portfólio Online Aqui](https://mickaellysilva.github.io/meu-portfolio/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnJ0J1KDcPzV_0PUGJn0kTsHTp9HbpIXz7vq4GEFStiX_3FkGuK940zq3dRN4_aem_tCqytyIDH5WBA3Wp7R1LOw)** 
 
 ---
 
